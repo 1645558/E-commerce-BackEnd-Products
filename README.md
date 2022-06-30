@@ -8,6 +8,9 @@ information and access it with ease! You can also add, delete or update products
 ## Visual
 
 
+https://user-images.githubusercontent.com/104105111/176774452-ef3710e1-9390-4b9b-bb1a-0df1d0370071.mp4
+
+
 ## Installation
 
 Install dependencies
